@@ -49,4 +49,7 @@ params['appid'] = Api.key;
 
 ## preview
 
-[Screen_recording_20240611_210101.mp4](..%2F..%2F..%2F..%2FScreen_recording_20240611_210101.mp4)
+
+
+https://github.com/moha-b/Weather-Task/assets/73842931/f5c270f6-8f6b-4eac-a94f-5b5b04cb7f86
+
